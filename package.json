@@ -1,8 +1,12 @@
 {
   "name": "transcribe-redirect",
   "version": "1.0.0",
-  "description": "",
+  "description": "One page redirect site",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rogerhutchings/transcribe-redirect.git"
+  }
   "scripts": {
     "start": "node server.js"
   },
